@@ -35,6 +35,7 @@
     ],
     "dependencies": {
         "ahooks": "^3.8.1",
+        "react-native-danmaku-player": "file:",
         "react-native-video": "^6.5.0"
     },
     "devDependencies": {
@@ -44,6 +45,6 @@
         "typescript": "^5.5.4"
     },
     "peerDependencies": {
-        "react-native": "^0.75.2"
+        "react-native": "*"
     }
 }
