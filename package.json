@@ -40,11 +40,11 @@
     },
     "devDependencies": {
         "@types/node": "^22.5.4",
-        "@types/react": "^18.3.5",
+        "@types/react": "^19.0.0",
         "soda-nodejs": "^0.4.0",
         "typescript": "^5.5.4"
     },
     "peerDependencies": {
-        "react-native": "*"
+        "react-native": "^0.79.2"
     }
 }
