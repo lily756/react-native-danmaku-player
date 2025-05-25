@@ -12,7 +12,6 @@
     "scripts": {
         "build": "node scripts/build.mjs",
         "prepublishOnly": "npm run build"
-        // "postinstall": "npm install; npm run build"
     },
     "authors": [
         "lurongv@qq.com"
