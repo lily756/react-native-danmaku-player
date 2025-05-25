@@ -1,7 +1,7 @@
 {
     "name": "react-native-danmaku-player",
     "version": "0.2.3",
-    "main": "dist/index.js",
+    "main": "dist/index.jsx",
     "types": "dist/index.d.ts",
     "license": "MIT",
     "description": "React Native Danmaku Player 弹幕播放器",
